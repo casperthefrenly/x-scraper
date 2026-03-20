@@ -9,11 +9,11 @@ An automated Python tool designed to scrape engagement metrics (Likes, Views, Re
 - Timezone Aware: Converts tweet timestamps to `CET` (customizable) for accurate reporting.
 
 ## Installation & Setup
-
-- git clone https://github.com/casperthefrenly/x-scraper.git
-- cd x-scraper
-- pip install -r requirements.txt
-- playwright install chromium
+    
+    git clone https://github.com/casperthefrenly/x-scraper.git
+    cd x-scraper
+    pip install -r requirements.txt
+    playwright install chromium
 
 ## How to Use
 
